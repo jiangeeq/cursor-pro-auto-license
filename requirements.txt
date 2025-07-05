@@ -1,0 +1,13 @@
+DrissionPage==4.1.0.9
+colorama==0.4.6
+python-dotenv==1.0.0
+pyinstaller==6.2.0
+requests==2.31.0
+PySide6==6.5.2
+selenium==4.16.0
+wmi==1.5.1
+packaging==23.2
+pywin32==306; platform_system=="Windows"
+typing-extensions==4.9.0
+datetime==5.4
+uuid==1.30
